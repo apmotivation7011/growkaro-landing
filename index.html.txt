@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Join GrowKaro Social's WhatsApp group for expert social media tips and organic growth strategies." />
+<title>GrowKaro Social – Your Social Media Growth Partner</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background: #f8f9fa;
+margin: 0;
+padding: 0;
+color: #333;
+}
+.container {
+max-width: 700px;
+margin: 0 auto;
+padding: 40px 20px;
+text-align: center;
+}
+h1 {
+font-size: 2.2em;
+margin-bottom: 10px;
+color: #222;
+}
+p {
+font-size: 1.1em;
+line-height: 1.6;
+}
+.cta-button {
+display: inline-block;
+margin-top: 20px;
+padding: 12px 24px;
+background: #25d366;
+color: #fff;
+font-size: 1.1em;
+border: none;
+border-radius: 8px;
+text-decoration: none;
+transition: background 0.3s ease;
+}
+.cta-button:hover {
+background: #1ebe5d;
+}
+.section {
+margin-top: 40px;
+}
+ul {
+text-align: left;
+display: inline-block;
+margin: 20px auto;
+padding-left: 0;
+}
+ul li {
+list-style: none;
+margin-bottom: 10px;
+}
+footer {
+margin-top: 40px;
+font-size: 0.9em;
+color: #888;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>🚀 Want to Grow Your Social Media Presence?</h1>
+<p>Join our <strong>FREE WhatsApp Group</strong> for expert tips, daily strategies & smart hacks to build your online influence.</p>
+<a class="cta-button" href="https://chat.whatsapp.com/LwBoXJ6ebmJDTn5CmHl41I" target="_blank">👉 Join WhatsApp Group</a>
+
+<div class="section">
+<h2>Why Join Our Group?</h2>
+<ul>
+<li>✅ Daily growth tips & marketing hacks</li>
+<li>✅ Learn how to boost your page organically</li>
+<li>✅ Safe, tested strategies used by top creators</li>
+<li>✅ No spam – just real guidance!</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>What You WON’T Find Here:</h2>
+<ul>
+<li>❌ No fake promises</li>
+<li>❌ No paid bots</li>
+<li>❌ No shortcut scams</li>
+</ul>
+</div>
+
+<footer>
+<p>GrowKaro Social is a learning & support community. We do not guarantee results but share proven techniques to help you grow better.</p>
+</footer>
+</div>
+</body>
+</html>
